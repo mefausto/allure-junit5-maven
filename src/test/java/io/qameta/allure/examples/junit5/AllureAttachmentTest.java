@@ -8,6 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class AllureAttachmentTest {
 
+    
     @Test
     public void annotatedAttachmentTest() {
         textAttachment("Annotated", "hello, world!");
